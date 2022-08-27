@@ -8,7 +8,7 @@ This app is my first introduction to swift. If you press a button, the text labe
 
 ### App Walk-though
 
-https://recordit.co/LIHW7kVf9w
+https://recordit.co/LIHW7kVf9w.gif
 
 
 ### Required User Stories
